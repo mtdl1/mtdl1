@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mtdl1
+- 👋 Hi, I’m Mateus Dubovicky
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on websites
+- 🌱 I’m currently learning JavaScript and Vue.Js
+- 💞️ I’m looking to collaborate on websites and Jobs
 - 📫 mateusdubovicky@hotmail.com
 
 <!---
